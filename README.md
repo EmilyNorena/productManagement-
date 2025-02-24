@@ -17,7 +17,7 @@
       <img src="assets/4.png" width="650px"/>
    </div>
 3. Patrón de diseño
-   El patrón de diseño que se implementó fue
+   El patrón de diseño que se implementó fue el Observer, con este, es posible que cada vez que se actualiza la clase con la informació, esta se llame a las clases que necesitan estos datos.
 4. Construcción de las clases
     <div align="center">
       <img src="assets/6.png" width="650px"/>
