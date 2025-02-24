@@ -17,11 +17,12 @@
       <img src="assets/4.png" width="650px"/>
    </div>
 3. Patrón de diseño
-   El patrón de diseño que se implementó es
+   El patrón de diseño que se implementó fue
 4. Construcción de las clases
     <div align="center">
       <img src="assets/6.png" width="650px"/>
    </div>
+   Siguiendo los princcipios SOLID, usamos el principio de Inversión de Dependencias para la clase principal productManagementService, donde contamos con una interfaz encargada de qué es lo que se hace y la clase implementación que es la encargada de la lógica y el cómo se hace. 
 6. Cobertura Jacoco
    <div align="center">
       <img src="assets/5.png" width="650px"/>
