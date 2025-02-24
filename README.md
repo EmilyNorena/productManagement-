@@ -19,7 +19,10 @@
 3. Patrón de diseño
    El patrón de diseño que se implementó es
 4. Construcción de las clases
-5. Cobertura Jacoco
+    <div align="center">
+      <img src="assets/6.png" width="650px"/>
+   </div>
+6. Cobertura Jacoco
    <div align="center">
       <img src="assets/5.png" width="650px"/>
    </div>
